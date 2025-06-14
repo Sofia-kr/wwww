@@ -1,0 +1,12 @@
+Participant 1
+Counter 0
+Stopwatch 8
+Participant 2
+Counter 1
+Stopwatch 3
+Participant 3
+Counter 2
+Stopwatch 2
+Participant 4
+Counter 3
+Stopwatch 0
